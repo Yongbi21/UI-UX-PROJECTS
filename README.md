@@ -34,7 +34,7 @@ A collection of case studies showcasing, Each project highlights the design proc
 - Personalized Care: Tailored assessments, mood tracking, and therapist matching provide individualized support.
 - Community Engagement: Users feel supported through peer interactions and professional guidance.
 - Crisis Support: Immediate care hotlines and calming resources offer timely assistance during emergencies.
-✨ This case study highlights how the app addresses users needs through a blend of technology, empathy, and accessibility, making mental health support more approachable and effective.
+##✨ This case study highlights how the app addresses users needs through a blend of technology, empathy, and accessibility, making mental health support more approachable and effective.
 
 
 
@@ -62,4 +62,4 @@ A collection of case studies showcasing, Each project highlights the design proc
 - Transparency: Real-time vote tallying and reporting enhance trust and accountability.
 - Security: Robust authentication and admin controls protect sensitive data and ensure system integrity.
 - User-Friendly: Intuitive interfaces and easy navigation improve user experience for both admins and members.
-✨ This case study highlights how the system addresses organizational needs through efficient management tools and secure, user-friendly features.
+##✨ This case study highlights how the system addresses organizational needs through efficient management tools and secure, user-friendly features.
